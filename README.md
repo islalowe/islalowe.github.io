@@ -12,8 +12,8 @@ I am a student at Seattle Pacific University with plans to work in encrypted com
 
 
 
-| Course Number | Course Name          |
-| ------------- | -------------------- |
-| CSC 2431      | Data Structures II   |
-| MAT 1221      | Survey of Calculus   |
-| MAT 3333      | Statistical Modeling |
+| Course Number | Course Name                        |
+| ------------- | --------------------               |
+| CSC 3310      | Concepts in Programming Languages  |
+| MAT 1221      | Survey of Calculus                 |
+| MAT 3333      | Statistical Modeling               |
