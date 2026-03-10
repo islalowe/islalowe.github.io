@@ -36,7 +36,7 @@ def main() -> None:
     result = interval_scheduling(intervals)
 
     print("Selected compatible intervals:")
-    print(result, "\n")
+    print(result)
 
     print("\nNumber selected:")
     print(len(result), "\n")
