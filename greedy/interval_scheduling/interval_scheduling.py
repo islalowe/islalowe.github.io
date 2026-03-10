@@ -1,28 +1,30 @@
 from typing import List, Tuple
 
-Interval = Tuple[string, int, int]
+Interval = Tuple[str, int, int]
 
 """
 This function returns a maximum subset of compatible jobs/time intervals. Compatible jobs do not overlap in time. 
 """
 def interval_scheduling(intervals: List[Interval]) -> List[Interval]:
     # step 1: sort by finish time
-    sorted_intervals = intervals.sort(intervals, key=lambda interval: interval[2])
+    intervals.sort(key=lambda interval: interval[2])
+    sorted_intervals = intervals
 
     # keeping track
-    count_intervals = 0
-    end_intervals = 0
+    interval_count = 0
+    end_interval = 0
     selected_set: List[Interval] = []
 
     # step 2: traverse the list of intervals
-    for interval in intervals:
+    for interval in sorted_intervals:
       # the interval starting times are >= the previous interval ending times
-      if (end <= interval[1]):
-        end = interval[2]
+      if (end_interval <= interval[1]):
+        end_interval = interval[2]
         # count the interval
-        count += 1
+        interval_count += 1
         # take the interval
         selected_set.append(interval)
+    return selected_set
 
 
 def main() -> None:
@@ -37,7 +39,7 @@ def main() -> None:
     print(result, "\n")
 
     print("\nNumber selected:")
-    print(len(result, "\n"))
+    print(len(result), "\n")
 
 
 if __name__ == "__main__":
