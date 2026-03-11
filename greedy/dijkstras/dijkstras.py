@@ -26,6 +26,15 @@ def dijkstra(adj, src):
                 heapq.heappush(pq, (dist[v], v))    # update the priority queue
     return dist
 
+'''
+This function prints the adjacency list for the graph
+'''
+def print_graph(adj):
+    print("Graph (adjacency list):")
+    for u in range(len(adj)):
+        for v, w in adj[u]:
+            print(f"{u} --({w})--> {v}")
+
 # source node
 src = 0
 # adjacency list
@@ -37,20 +46,7 @@ adj = [
     [(1, 6), (3, 10)]
 ]
 
-print("The graph:\n")
-print(r"""
-       (4)
- 0 -------- 1
- | \        |
- |  \(3)    |(6)
-(8)  \      |
- |    \     |
- 2 ---(2)---3
-      \
-       \(10)
-        \
-         4
-""")
+print_graph(adj)
 result = dijkstra(adj, src)
 print("source node: ", src, "\n")
 print("Dijkstra's shortest path distances: ")

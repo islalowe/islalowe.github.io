@@ -56,7 +56,7 @@ A min-heap is a *complete* binary tree (all levels are filled, except the bottom
 Children of nodes in the tree are always larger than their parent nodes. The smallest node is always the root node.
 Python implements min-heaps using an underlying array. The smallest node is always at index `0`.
 Finding a node in a min-heap array can be done in this way:
- - If a node is stored at index i:
+ If a node is stored at index i:
  - Its left child is at index `2*i + 1`.
  - Its right child is at index `2*i + 2`.
  - The parent of a node at index i can be found at index `[(i-1)/2]`.
