@@ -1,5 +1,6 @@
 from typing import List, Tuple
 
+# Intervals with interva name, start time, end time
 Interval = Tuple[str, int, int]
 
 """
