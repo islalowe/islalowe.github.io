@@ -50,7 +50,7 @@ The running time `T(n)` is `T(n) = 7T(n/2) + kn^2`
 ## Pseudocode
 ```text
 MatrixMultiplication(Matrix1, Matrix2):
-    check len(Matrix1) == len(Matrix2)
+    check the number of columns in Matrix1 matches the number of rows in Matrix2
     if len(Matrix1) == 1:
         return [[Matrix1[0][0] * Matrix2[0][0]]]
 
