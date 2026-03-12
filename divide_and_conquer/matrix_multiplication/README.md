@@ -1,22 +1,9 @@
 # Matrix Multiplication
 Matrix multiiplication involves taking two 2D matrices and computing each entry of the result matrix by taking the **dot product of a row of the first matrix and a column of the second matrix**.
 
-$$
-\begin{pmatrix}
-a & b \\
-c & d
-\end{pmatrix}
-\begin{pmatrix}
-w & x \\
-y & z
-\end{pmatrix}
-=
-\begin{pmatrix}
-aw + by & ax + bz \\
-cw + dy & cx + dz
-\end{pmatrix}
-$$
 
+      ( a  b )   ( w  x )   ( aw + by  ax + bz )
+      ( c  d ) × ( y  z ) = ( cw + dy  cx + dz )
 
 
 ## Problem
