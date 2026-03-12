@@ -45,7 +45,7 @@ S_7 &= (A - C)(E + F)
 $$
 
 ## Implementation & Time Cmplexity
-The running time `T(n)` is `T(n) = 7T(n/2) + kn^2`
+The running time `T(n)` is T(n) = 7T(n/2) + k2<sup>n</sup>
 
 ## Pseudocode
 ```text
