@@ -20,13 +20,13 @@ Since the matrices in this implementation are square, with `n` x `n` dimensions 
 After the raw matrices are divided into 8 submatrices, `A` - `H`, they need to be used for the dot matrix computation, which will produce new submatrices with Strassen's algorithm.
 The submatrix products will be: 
 
-- S_1 &= A(F - H) 
-- S_2 &= (A + B)H 
-- S_3 &= (C + D)E 
-- S_4 &= D(G - E) 
-- S_5 &= (A + D)(E + H) 
-- S_6 &= (B - D)(G + H) 
-- S_7 &= (A - C)(E + F)
+- S_1 = A(F - H) 
+- S_2 = (A + B)H 
+- S_3 = (C + D)E 
+- S_4 = D(G - E) 
+- S_5 = (A + D)(E + H) 
+- S_6 = (B - D)(G + H) 
+- S_7 = (A - C)(E + F)
 
 ## Implementation & Time Cmplexity
 The running time `T(n)` is T(n) = 7T(n/2) + k2<sup>n</sup>

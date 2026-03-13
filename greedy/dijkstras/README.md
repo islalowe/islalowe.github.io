@@ -25,7 +25,7 @@ This algorithm requires all weights not be negative.
 				D[v] = D[u] + G.weight(u,v)
 ```
 
-## Implementation & Time Cmplexity
+## Implementation & Time Complexity
 The time complexity is `O((V+E)*logV)`, Where `E` is the number of edges and `V` is the number of vertices.
 A **min-heap** is used for implementation. 
 

@@ -1,7 +1,7 @@
 # Interval Scheduling
 
 ## Problem
-Each job starts at start time, `s_j` and finishes at finish time, `f_j`. Compatible jobs do not overlap. 
+Given a set of jobs, find the maximum number that take place compatibly. Each job starts at start time, `s_j` and finishes at finish time, `f_j`. Compatible jobs do not overlap. 
 
 Example intervals:
 - A: (0, 7)
