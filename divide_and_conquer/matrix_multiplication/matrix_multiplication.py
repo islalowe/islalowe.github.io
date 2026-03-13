@@ -111,6 +111,13 @@ if __name__ == "__main__":
 
     result = multiply_matrix(mat_1, mat_2)
 
-    print("result matrix:\n")
+    print("Matrix 1:\n")
+    for row in mat_1:
+        print(row)
+    print("\nMatrix 2:\n")
+    for row in mat_2:
+        print(row)
+
+    print("\nResult matrix:\n")
     for row in result:
         print(row)
