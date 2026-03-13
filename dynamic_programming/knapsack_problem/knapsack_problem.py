@@ -1,26 +1,42 @@
 '''
-
+This function takes input:
+    int maximum knapsack weight capacity, W
+    array of the item values, values
+    array of the item weights, weights
+The function calculates the maximum benefit possible from a given subset while staying under max weight
 '''
-def knapsack01(W, val, wt):
+def knapsack01(W, values, weights):
     
-    # Initializing subtask list, called dp
-    # A list of 0s that as long as weight + 1
-    # maximum value achievable with weight ≤ w
-    dp = [0] * (W + 1)
+    # Initializing dp subtask list, of Benefits
+    # Starts as a list of 0s (as long as max weight + 1)
+    # maximum benefit achievable with weight ≤ w
+    # benefits[w] = all the maximum benefits achievable keeping weight <= W
+    benefits = [0] * (W + 1)
 
-    # Taking first i elements
-    for i in range(1, len(wt) + 1):
+    # Going through all the items
+    for item in range(len(weights)):
+
+        # 'item' weight and value
+        weight_k = weights[item]
+        value_k = values[item]
         
-        # Starting from back, so that we also have data of
-        # previous computation of i-1 items
-        for j in range(W, wt[i - 1] - 1, -1):
-            dp[j] = max(dp[j], dp[j - wt[i - 1]] + val[i - 1])
-    
-    return dp[W]
+        # "For for w ← W down to w_k do"
+        # Start at max weight and go backwards until the current item weight
+        for j in range(W, weight_k - 1, -1):
+            # For each index from W down to w_k
+            # subtract the current item weight to adjust capacity
+            if (benefits[j - weight_k] + value_k) > benefits[j]:
+                # Take the max
+                benefits[j] = benefits[j - weight_k] + value_k
+
+    # The max benefit is at the end of the array
+    return benefits[W]
 
 if __name__ == "__main__":
-    val = [1, 2, 3]
-    wt = [4, 5, 1]
-    W = 4
+    # items 1, 2, 3, 4
+    values = [6, 5, 7, 3]
+    weights = [3, 2, 4, 1]
+    W = 8
 
-    print(knapsack01(W, val, wt))
+    print("Maximum benefit result: ", knapsack01(W, values, weights))
+
