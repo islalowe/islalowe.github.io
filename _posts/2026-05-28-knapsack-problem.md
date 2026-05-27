@@ -1,6 +1,6 @@
 ---
 title: 0/1 Knapsack Problem
-date: 2026-05-27
+date: 2026-05-28
 categories: [Algorithms, Dynamic Programming]
 tags: [dp, python]
 ---
