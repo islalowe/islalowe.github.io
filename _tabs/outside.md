@@ -10,7 +10,7 @@ order: 3
 [Strava Activity](https://www.strava.com/activities/17724742670)
 
 A fun 3-person tour done all on splitboards, with Claire and Peter. We skinned up early in the morning and I was still trying the finish setting up my new skins in the parking lot. On the approach we passed Fez, one of the assistant instructors for my AIARE course who helped pull me out of a ditch during the course. Claire took an extra lap on the approah with Peter spotting her as I recovered from a kickturn collapse. As we waited for Claire to catch up afterwards we hid under a rock and got to see the skier-triggered D1 reported on NWAC up close. We spent a few minutes too long on the top of Table as Peter and Claire scoped around for the highest point, and got caught in fog. Luckily Peter had found and remembered the route down. There was enough powder to jump from the top and land in pillows, which was fun despite the inevitable crash. The run from the top was nice and long. We were done well before dark and stopped twice for food on the way home.  
-![Top of Absolut Serenity photo](/assets/img/top_of_serenity.jpg)
+![Top of Absolute Serenity photo](/assets/img/top_of_serenity.jpeg)
 
 ---
 
