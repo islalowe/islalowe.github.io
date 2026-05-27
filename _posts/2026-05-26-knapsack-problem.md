@@ -1,5 +1,5 @@
 ---
-title: 0/1 Knapsack Problem
+title: 0-1 Knapsack Problem
 date: 2026-05-26
 categories: [Algorithms, Dynamic Programming]
 tags: [dp, python]
