@@ -34,10 +34,7 @@ social:
   name: Kristen (Isla) Lowe
   email: lowek3@spu.edu # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/islalowe # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://github.com/islalowe
     - https://www.linkedin.com/in/kristen-isla-lowe
 
 # Site Verification Settings
