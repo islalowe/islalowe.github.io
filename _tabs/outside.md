@@ -16,7 +16,7 @@ A fun 3-person tour done all on splitboards, with Claire and Peter. We skinned u
 ## Prusik Peak/West Ridge · Enchantments
 *May 2026*
 
-[Strava Activity] (https://www.strava.com/activities/18467512122)
+[Strava Activity](https://www.strava.com/activities/18467512122)
 
 Bagged this peak as a three-person team, with Peter and TJ. Peter led every pitch. We were racing a windstorm that was politely waiting for us to get down, but it really started whipping as we finished the final rappel, where the rope got stuck. Peter tried a 3:1 pulley against a larch to pull the rope but ultimately we left it, and following teams have begun using it as a handline to descend the snow slope below the route. 
 We took longer than expected to finish the climb, so the ultimate timeline was:
@@ -30,7 +30,7 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 ## Quartz Mountain/Absolute Serenity Now · Middle Fork
 *May 2026*
 
-[Strava Activity] (https://www.strava.com/activities/18645779459)
+[Strava Activity](https://www.strava.com/activities/18645779459)
 
 Absolute Serenity Now is a newish 12-pitch sport climb, that Peter and I started at 2pm. We swung leads or simul-climbed to cut down on time and finished in under 5 hours. however, the approach was longer than we expected and the walk-off involved steep veggie belays that took an additional two hours. The call was made to skirt the summit to try to make it home before sunrise. We found a slot to get around to the descent gulley just before dark and turned on headlamps for the 2000 ft of talus in the gulley. We had a moment with the stars where we considered staying the night on a particularly soft slab but ultimately pushed through and made it to the car around 3 a.m. 
 
