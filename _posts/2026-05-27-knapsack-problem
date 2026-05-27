@@ -1,4 +1,10 @@
-# Knapsack Problem
+---
+title: Knapsack Problem
+date: 2026-05-27
+categories: [Algorithms, Dynamic Programming]
+tags: [dp, python]
+---
+
 Given n objects and a "knapsack."
 Item `i` has:
 - weight `w_i > 0`
