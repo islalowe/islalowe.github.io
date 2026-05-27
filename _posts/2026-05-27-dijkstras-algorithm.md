@@ -66,5 +66,5 @@ Finding a node in a min-heap array can be done in this way:
  - Its right child is at index `2*i + 2`.
  - The parent of a node at index i can be found at index `[(i-1)/2]`.
 
-<li><a href="https://colab.research.google.com/drive/1eOspUW7uMsIIS4o6z5ElD04znXud944q?usp=sharing">
-    Try Dijkstra's Algorithm</a></li>
+<a href="https://colab.research.google.com/drive/1eOspUW7uMsIIS4o6z5ElD04znXud944q?usp=sharing">
+    Try Dijkstra's Algorithm</a>
