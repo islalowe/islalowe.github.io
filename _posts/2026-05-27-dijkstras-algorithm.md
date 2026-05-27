@@ -1,4 +1,9 @@
-# Dijkstra's Algorithm
+---
+title: Dijkstra's Algorithm
+date: 2026-05-27
+categories: [Algorithms, Greedy]
+tags: [greedy, python]
+---
 
 ## Problem
 We need to find the shortest path distances from the source vertex to all other vertices in the graph.
