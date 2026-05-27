@@ -27,4 +27,4 @@ Classic CS algorithms implemented in Python with explanations and interactive Co
 
 **Topics:** Greedy, Divide & Conquer, Dynamic Programming, NP
 
-[View Algorithms](/posts/)
+[View Algorithms](/archives/)
