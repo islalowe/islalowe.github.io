@@ -25,7 +25,7 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 - Saturday: approach to Lake Vivian
 - Sunday: climb the route and descend to Snow Lake
 - Monday: descend from Snow Lake and sprint to school/work.
-  ![Prusik Summit](/assets/img/prusik_summit.jpeg)
+![Prusik Summit](/assets/img/prusik_summit.jpeg)
 
 ---
 
