@@ -25,7 +25,7 @@ A cost-splitting app for iOS and Android that simplifies group travel expenses. 
 ## Algorithms Collection
 Classic CS algorithms implemented in Python with explanations and interactive Colab notebooks.
 
-**Topics:** Greedy, Divide & Conquer, Dynamic Programming, NP
+**Topics:** Greedy, Divide & Conquer, Dynamic Programming
 
 [View Algorithms](/archives/)
 
