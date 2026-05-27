@@ -28,3 +28,12 @@ Classic CS algorithms implemented in Python with explanations and interactive Co
 **Topics:** Greedy, Divide & Conquer, Dynamic Programming, NP
 
 [View Algorithms](/archives/)
+
+---
+
+## URL Discord Notifier
+A Chrome extension that sends a Discord webhook notification when you visit a specified URL. Designed for group accountability with time-wasting sites. The webhook funcitonality notifies a Discord server as a bot that you have visited a sepcified website.
+
+**Built with:** JavaScript, Chrome Extensions API, Discord Webhooks
+
+[View on Chrome Web Store](https://chromewebstore.google.com/detail/ojnjidbeogdphjciffdfahbabicmifdc)
