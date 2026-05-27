@@ -50,3 +50,6 @@ IntervalScheduling(jobs):
 
     return A
 ```
+
+<a href="https://github.com/islalowe/islalowe.github.io/blob/main/greedy/interval_scheduling/interval_scheduling.py"> 
+    See Interval Scheduling</a>
