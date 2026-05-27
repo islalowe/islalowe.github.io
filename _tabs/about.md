@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 I am a Computer Science student at Seattle Pacific University with prior experience as a cryptologic linguist. 
-    That background sparked my interest in secure communication and encryption, but I’m broadly excited to apply my 
-    skills wherever I can contribute and grow as a developer. I’m especially motivated by opportunities to learn from 
-    collaborative teams, work on impactful projects, and keep expanding my technical foundation.
+    My time as a Subject matter expert in signals intelligence sparked my interest in encryption, and secure systems for people to communicate in oppressive environments . I like to build things: a published Chrome extension, a cost-splitting mobile app for group trips, and a GPX route manager website currently in progress.
 
 ## Skills
 - **Languages:** C++, Python, Golang
@@ -18,6 +16,9 @@ I am a Computer Science student at Seattle Pacific University with prior experie
 - **Barista** · Seattle Starbucks · 2023 - 2026
 
 ## Education
-- **Seattle Pacific University** · B.A. Computer Science · Spring 2026
+- **Seattle Pacific University** · B.A. Computer Science, Minor in Communications, Minor in Data Analytics · Spring 2026
 - **Defense Language Institute** · A.A. Korean Language & Culture · June 2018
+
+## Certificates
+- Azure Developer Associate (AZ-204)
 
