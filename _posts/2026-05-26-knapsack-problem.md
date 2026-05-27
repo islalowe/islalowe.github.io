@@ -43,5 +43,4 @@ After the loops the optimal value can be found by locating the value `B[w]` that
             if B[w - w_i] + b_i > B[w] then
                 B[w] ← B[w - w_i] + b_i
 ```
-<a href="https://colab.research.google.com/drive/1d4wkeWfrBkqf9-79e_XDGLpTrLTFkzEh?usp=sharing"> 
-    Try 0/1 Knapsack Problem</a>
+[Try 0/1 Knapsack Problem](https://colab.research.google.com/drive/1d4wkeWfrBkqf9-79e_XDGLpTrLTFkzEh?usp=sharing)
