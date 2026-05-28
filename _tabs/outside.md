@@ -41,5 +41,5 @@ Absolute Serenity Now is a newish 12-pitch sport climb, that Peter and I started
 
 <img src="https://islalowe.github.io/assets/img/top_of_serenity.jpeg" width="500" alt="Finished with Veggie Belay">
 
-The call was made to skirt the summit to try to make it home before sunrise. We found a slot to get around to the descent gulley just before dark and turned on headlamps for the 2000 ft of talus in the gulley. We had a moment with the stars where we considered staying the night on a particularly soft slab but ultimately pushed through and made it to the car around 3 a.m. 
+The call was made to skirt the summit to try to make it home before sunrise. We found a slot to get around to the descent gulley just before dark and turned on headlamps for the 2000 ft of talus in the gulley. We had a moment with the stars where we considered staying the night on a particularly soft slab but ultimately pushed through, and made it to the car around 3 a.m. 
 
