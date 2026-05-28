@@ -10,7 +10,8 @@ order: 3
 [Strava Activity](https://www.strava.com/activities/17724742670)
 
 A fun 3-person tour done all on splitboards, with Claire and Peter. We skinned up early in the morning and I was still trying the finish setting up my new skins in the parking lot. On the approach we passed Fez, one of the assistant instructors for my AIARE course who helped pull me out of a ditch during the course. Claire took an extra lap on the approah with Peter spotting her as I recovered from a kickturn collapse. As we waited for Claire to catch up afterwards we hid under a rock and got to see the skier-triggered D1 reported on NWAC up close. We spent a few minutes too long on the top of Table as Peter and Claire scoped around for the highest point, and got caught in fog. Luckily Peter had found and remembered the route down. There was enough powder to jump from the top and land in pillows, which was fun despite the inevitable crash. The run from the top was nice and long. We were done well before dark and stopped twice for food on the way home.  
-<img src="/assets/img/table_ascent.jpeg" width="500" alt="Topping out the Table">
+
+<img src="https://islalowe.github.io/assets/img/table_ascent.jpeg" width="500" alt="Topping out the Table">
 
 ---
 
@@ -25,7 +26,9 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 - Saturday: approach to Lake Vivian
 - Sunday: climb the route and descend to Snow Lake
 - Monday: descend from Snow Lake and sprint to school/work.
-![Prusik Summit](https://islalowe.github.io/assets/img/prusik_summit.jpeg){: width="500" }
+  
+<img src="https://islalowe.github.io/assets/img/prusik_summit.jpeg" width="500" alt="Prusik Summit">
+
 
 ---
 
@@ -35,6 +38,8 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 [Strava Activity](https://www.strava.com/activities/18645779459)
 
 Absolute Serenity Now is a newish 12-pitch sport climb, that Peter and I started at 2pm. We swung leads or simul-climbed to cut down on time and finished in under 5 hours. however, the approach was longer than we expected and the walk-off involved steep veggie belays that took an additional two hours. 
-![Finished with Veggie Belay](https://islalowe.github.io/assets/img/table_ascent.jpeg){: width="500" }
+
+<img src="https://islalowe.github.io/assets/img/top_of_serenity.jpeg" width="500" alt="Finished with Veggie Belay">
+
 The call was made to skirt the summit to try to make it home before sunrise. We found a slot to get around to the descent gulley just before dark and turned on headlamps for the 2000 ft of talus in the gulley. We had a moment with the stars where we considered staying the night on a particularly soft slab but ultimately pushed through and made it to the car around 3 a.m. 
 
