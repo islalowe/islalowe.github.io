@@ -51,5 +51,5 @@ IntervalScheduling(jobs):
     return A
 ```
 
-<a href="https://github.com/islalowe/islalowe.github.io/blob/main/greedy/interval_scheduling/interval_scheduling.py"> 
+<a href="https://colab.research.google.com/drive/1yKnzvFWJZ4bVqoO7h3bhUH0VbWWVHpuR?usp=sharing"> 
     See Interval Scheduling</a>
