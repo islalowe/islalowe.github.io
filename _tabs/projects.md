@@ -5,7 +5,10 @@ order: 2
 ---
 
 ## Routelette *(in progress)*
-A GPX route manager for organizing and visualizing GPS tracks.
+A personal web application for filing, sorting, and exploring .gpx backcountry tracks by features and con-
+ditions. Supports user accounts, route management, favorites, and a ranked Smoot 100 peak-bagging tracker. 
+Planned features include Strava-style social following, trip reports, and
+community-contributed route lists.
 
 **Built with:** JavaScript, Python, Fly.io, Cloudflare
 
@@ -40,6 +43,6 @@ A Chrome extension that sends a Discord webhook notification when you visit a sp
 
 **Built with:** JavaScript, Chrome Extensions API, Discord Webhooks
 
-**Lessons Learned:** This was a super simple project but I had no clue how to construct a Chrome extension before trying this. I learned the importance of imagining how another person could use something I created in a way that I had not intended. When I realized that users may get around the URL-detecting functionality of the extension I decided to employ a partial-match detect.
+**Lessons Learned:** This was a super simple project but I had no clue how to construct a Chrome extension before trying it. I learned the importance of imagining how another person could use something I created in a way that I had not intended. When I realized that users may get around the URL-detecting functionality of the extension I decided to employ a partial-match detect.
 
 [View on Chrome Web Store](https://chromewebstore.google.com/detail/ojnjidbeogdphjciffdfahbabicmifdc)
