@@ -37,7 +37,7 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 
 [Strava Activity](https://www.strava.com/activities/18645779459)
 
-Absolute Serenity Now is a newish 12-pitch sport climb, that Peter and I started at 2pm. We swung leads or simul-climbed to cut down on time and finished in under 5 hours. however, the approach was longer than we expected and the walk-off involved steep veggie belays that took an additional two hours. 
+Absolute Serenity Now is a newish 12-pitch sport climb, that Peter and I started at 2pm. We swung leads or simul-climbed to cut down on time and finished in under 5 hours. However, the approach was longer than we expected and the walk-off involved steep veggie belays that took an additional two hours. 
 
 <img src="https://islalowe.github.io/assets/img/top_of_serenity.jpeg" width="500" alt="Finished with Veggie Belay">
 
