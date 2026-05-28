@@ -9,7 +9,7 @@ A GPX route manager for organizing and visualizing GPS tracks.
 
 **Built with:** JavaScript, Python, Fly.io, Cloudflare
 
-**Lessons Learned:** This project is excellent practice for front-end development and design. I learned about html classes and optimizing .css to reduce redundancy. I also learned about finding open-source or student discount tools and platforms for project integration. One takeaway from the proces of beginning this project was the importance of mocking up ideas before creating them and then asking for feedback from people outside the project. The initial table has gone under many revisions because the intended use was initially difficult for users to intuitively discern.
+**Lessons Learned:** This project is excellent practice for front-end development and design. I learned about html classes and optimizing .css to reduce redundancy. I also learned about finding open-source or student discount tools and platforms for project integration. One takeaway from the process of beginning this project was the importance of mocking up ideas before creating them and then asking for feedback from people outside the project. The initial table has gone under many revisions because the intended use was initially difficult for users to intuitively discern.
 
 [View Site](https://routelette.fly.dev/)
 
@@ -36,7 +36,7 @@ Classic CS algorithms implemented in Python with explanations and interactive Co
 ---
 
 ## URL Discord Notifier
-A Chrome extension that sends a Discord webhook notification when you visit a specified URL. Designed for group accountability with time-wasting sites. The webhook funcitonality notifies a Discord server as a bot that you have visited a specified website.
+A Chrome extension that sends a Discord webhook notification when you visit a specified URL. Designed for group accountability with time-wasting sites. The webhook functionality notifies a Discord server as a bot that you have visited a specified website.
 
 **Built with:** JavaScript, Chrome Extensions API, Discord Webhooks
 
