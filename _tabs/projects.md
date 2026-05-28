@@ -22,7 +22,7 @@ A cost-splitting app for iOS and Android that simplifies group travel expenses. 
 
 **Lessons Learned:** This was my first experience as part of a long-term team working on a full-stack project. It was also the project with the largest scope I had ever attempted. We struggled at first with estimating how long deliverables would take us individually, and we had to learn how to merge code conflicts and understand what others had written. I'm really proud of the end result.
 
-[View Source](https://github.com/islalowe/repo-name)
+[View on App Store](https://apps.apple.com/us/app/tripsplit-expense-sharing/id6761230723)
 
 ---
 
