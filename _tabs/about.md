@@ -21,4 +21,4 @@ My time as a Subject matter expert in signals intelligence sparked my interest i
 
 ## Certificates
 - Azure Developer Associate (AZ-204)
-
+- Top Poster Presentation - Erickson Undergraduate Research Conference, SPU (2026)
