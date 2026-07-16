@@ -15,6 +15,12 @@ Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 50
 
 Peter and I slept at 11,600'. The next day, the two of us climbed some lines we scoped out around Upper Boyscout Lake, including a tall tower that went in about 6 pitches and wasn't on Mountain Project. At the same time, Alex and TJ woke before dawn and attempted the summit route. We listned to the adventure on Rocky Talkies. Around 1pm we saw fast clouds rolling higher up the mountain and heard the pair exclaim in surprise at the unforcasted the rain they were suddenly encounrtering. The team bailed with improvised rappels from pitch 4, and managed to leave nothing but a few slings on the mountain. They met up with us at Upper Boy Scout Lake and we descended together with headlamps. We traded off driving and stopped for food at every open gas station we saw on the way to the airport. All of us made it to work on time on Monday.
 
+---
+
+## Mount Olympus · Olympic National Park
+*June 2026*
+[Strava Activity](https://www.strava.com/activities/19016976859)
+
 
 ---
 
