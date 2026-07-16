@@ -27,12 +27,9 @@ Peter and I slept at 11,600'. The next day, the two of us climbed some lines we 
 
 Mt Olympus was fun enough to stay interesting for all 4 days that it took to make the climb. Peter and I met up with Piyum and Danyel on a Wednesday afternoon and we boarded a ferry, towards adventure. I was responsible for binging the food for this trip and while we didn't starve, we probably shouldn't have started on the bearbox sandwiches when we got hungry the ferry. The first and final days were both about 15 miles of mostly flat terrain, and the second and third days were spent on the glacier and snow. 
 
-The Blue Glacier was strikingly beautiful to each of us. 
-Peter leading the climb
-Me falling in the hole
-Side quest
-Crash out
-Books
+The Blue Glacier was strikingly beautiful to each of us, but Danyel was the only one who had brought a DSLR and was stopping to take pictures of the pools of blue water in the ice about as often as Peter as declaring that he'd like to jump into them. We camped at Caltech rocks, with an epic view of some massive seracs. Peter led the climbing for the summit block, and everyone else followed on microtraxions or on toprope. I chose to put on climbing shoes before getting onto the rock, secure as I was with my microtraxion, and slid right off the snow at the start and into the bergschrund beside the rock. I leaned over the snow to get out and then climbed the route after Peter, and scrambled to the summit while he waited for the others at the anchor. We met a soloist who'd come alone in trail runners, and was carrying his 70m rope c2c. On the way back from the summit, Peter led us to another little rock scramble diversion, and when we finally plunge-stepped back to camp the snow was soaking. 
+
+The initial descent from the summit was early and cold, and I did not know how to descend ice in crampons. There were a few minutes of suffering and poor coordination before the slope mellowed out. I was also on period from summit day onward, and had to frequently stop the gang so I could crouch behind a rock and manage this. Finally, I had brought no face protection esides sunscreen but because I was sweating so much my face took a bit of a burn
 
 ---
 
@@ -64,7 +61,6 @@ We took longer than expected to finish the climb, so the ultimate timeline was:
 <img src="https://islalowe.github.io/assets/img/prusik_summit.jpeg" width="500" alt="Prusik Summit">
 
 ---
-
 
 ## Table Mountain/XC Ski · Mt Baker
 *March 2026*
