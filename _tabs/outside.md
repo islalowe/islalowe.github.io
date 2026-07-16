@@ -9,7 +9,7 @@ order: 3
 
 [Strava Activity](https://www.strava.com/activities/19292887119)
 
-Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should generally require dilligent acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. We slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and river swims.
+Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should generally require dilligent acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. We slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and lake swims.
 
 <img src="https://islalowe.github.io/assets/img/isla_whitney_knee.jpeg" width="500" alt="Peter with AMS and a garbage oxygen can that we found">
 
