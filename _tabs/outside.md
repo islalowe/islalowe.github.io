@@ -4,6 +4,15 @@ icon: fas fa-mountain
 order: 3
 ---
 
+## Mt Whitney East Buttress · Inyo County, Sierras
+*July 2026*
+
+[Strava Activity](https://www.strava.com/activities/19292887119)
+
+Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5' ft of hiking, requires dilligent aclimitazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. We slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and while we made good time, we reached our next camping spot at 12,600' feet well before sunset. We started trying to rest in the baking sun. After an hour or so Peter developed AMS, hich presented as a worsening of his mild altitude headache developed and some aggressive vomiting after he was given a salty electrolyte drink. I grabbed puffies and bivvies and descended with him immediately. I later realized that I shouldn't have stopped to grab so many layers, we were in the Sierras, not Washington, and already sweating. Peter and I slept at 11,600'. The next day Peter and I climbed some lines we scoped out around Upper Boyscout Lake, including a tall tower that went in about 6 pitches and wasn't on Mountain Project. At the same time, Alex and TJ woke before dawn and attempted the summit route. We listned to the adventure on Rocky Talkies. Around 1pm we saw fast clouds rolling higher up the mountain and heard the pair exclaim in surprise at the unforcasted the rain they were suddenly encounrtering. The team bailed with improvised rappels from pitch 4, and managed to leave nothing but a few slings on the mountain. They met up with us at Upper Boy Scout Lake and we descended together with headlamps. We traded off driving and stopped for food at every open gas station we saw on the way to the airport. All of us made it to work on time on Monday.
+
+---
+
 ## Quartz Mountain/Absolute Serenity Now · Middle Fork
 *May 2026*
 
