@@ -6,6 +6,7 @@ order: 3
 
 ## Mt Whitney East Buttress · Inyo County, Sierras
 *July 2026*
+
 [Strava Activity](https://www.strava.com/activities/19292887119)
 
 Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should probably require careful acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. To this end, we slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and lake swims.
