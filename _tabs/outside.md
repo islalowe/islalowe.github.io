@@ -6,12 +6,11 @@ order: 3
 
 ## Mt Whitney East Buttress · Inyo County, Sierras
 *July 2026*
-
 [Strava Activity](https://www.strava.com/activities/19292887119)
 
 Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should generally require dilligent acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. We slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and lake swims.
 
-<img src="https://islalowe.github.io/assets/img/isla_whitney_knee.jpeg" width="500" alt="Peter with AMS and a garbage oxygen can that we found">
+<img src="https://islalowe.github.io/assets/img/isla_whitney_knee.jpeg" width="500" alt="Isla sitting after a scramble">
 
 We started trying to rest in the baking sun. After an hour or so Peter began developing symptoms of AMS, which presented as a worsening of his mild altitude headache developed and some aggressive vomiting after he was given a salty electrolyte drink. I grabbed puffies and bivvies and descended with him immediately. I later realized that I shouldn't have stopped to grab so many layers, we were in the Sierras, not Washington, and already sweating. Regardless, Peter made it down fine and when they came to ferry his pack down he told the others to go for the summit without him. He did everything he could to acclimatize within the available schedule, but he was unluckier than the rest of the team and he felt the sickest at altitude. There was a bright side though: he felt released from the pressure of leading most pitches and making most decisions, as the most experienced among us. He would be able to sleep in the next day and go cragging on a beatiful mountain while his friends carried the torch to the top. We carried down a garbage oxygen can that we found on the trail.
 
