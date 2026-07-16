@@ -8,7 +8,7 @@ order: 3
 *July 2026*
 [Strava Activity](https://www.strava.com/activities/19292887119)
 
-Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should generally require dilligent acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. We slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and lake swims.
+Attempting to reach a summit at 14,505' by completing 7 pitches of 5.7, after 5000' ft of hiking, should probably require careful acclimatazation and management of physical resources. All four members of the team, including Peter, TJ, and Alex, live at sea level. To this end, we slept at 8000' the first night (a friday), but only for a few hours. None of us had slept much when we awoke very early to start the hike, and we made good time, reaching our next camping spot at 12,600' feet well before sunset. Along the way, we stopped for some side scrambles and lake swims.
 
 <img src="https://islalowe.github.io/assets/img/isla_whitney_knee.jpeg" width="500" alt="Isla sitting after a scramble">
 
@@ -22,8 +22,17 @@ Peter and I slept at 11,600'. The next day, the two of us climbed some lines we 
 
 ## Mount Olympus · Olympic National Park
 *June 2026*
+
 [Strava Activity](https://www.strava.com/activities/19016976859)
 
+Mt Olympus was fun enough to stay interesting for all 4 days that it took to make the climb. Peter and I met up with Piyum and Danyel on a Wednesday afternoon and we boarded a ferry, towards adventure. I was responsible for binging the food for this trip and while we didn't starve, we probably shouldn't have started on the bearbox sandwiches when we got hungry the ferry. The first and final days were both about 15 miles of mostly flat terrain, and the second and third days were spent on the glacier and snow. 
+
+The Blue Glacier was strikingly beautiful to each of us. 
+Peter leading the climb
+Me falling in the hole
+Side quest
+Crash out
+Books
 
 ---
 
