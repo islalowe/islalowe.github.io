@@ -30,7 +30,18 @@ Mt Olympus was fun enough to stay interesting for all 4 days that it took to mak
 
 The Blue Glacier was strikingly beautiful to each of us, but Danyel was the only one who had brought a DSLR and was stopping to take pictures of the pools of blue water in the ice about as often as Peter as declaring that he'd like to jump into them. We camped at Caltech rocks, with an epic view of some massive seracs. Peter led the climbing for the summit block, and everyone else followed on microtraxions or on toprope. I chose to put on climbing shoes before getting onto the rock, secure as I was with my microtraxion, and slid right off the snow at the start and into the bergschrund beside the rock. I leaned over the snow to get out and then climbed the route after Peter, and scrambled to the summit while he waited for the others at the anchor. We met a soloist who'd come alone in trail runners, and was carrying his 70m rope c2c. On the way back from the summit, Peter led us to another little rock scramble diversion, and when we finally plunge-stepped back to camp the snow was soaking. 
 
-The initial descent from the summit was early and cold, and I did not know how to descend ice in crampons. There were a few minutes of suffering and poor coordination before the slope mellowed out. I was also on period from summit day onward, and had to frequently stop the gang so I could crouch behind a rock and manage this. Finally, I had brought no face protection esides sunscreen but because I was sweating so much my face took a bit of a burn
+The initial descent from the summit was early and cold, and I did not know how to descend ice in crampons. There were a few minutes of suffering and poor coordination before the slope mellowed out. I was also on period from summit day onward, and had to frequently stop the gang so I could crouch behind a rock and manage this. Finally, I had brought no face protection besides sunscreen but because I was sweating so much my face took a bit of a burn. The descent through talus was slower that I was hoping it would be, and by the end of the walk out my legs were totally dead. We played in the river at the end of the exit and stopped for Mexican food on the way home.
+
+---
+
+## Ingalls East Ridge Attempt · Stuart Range
+*June 2026*
+
+[Strava Activity](https://www.strava.com/activities/18938187697)
+
+My little brother Jacob's first hike above treeline and on snow and talus was exciting, but slow-going. We had to slow down to learn techniques and we chose to slow down to scramble some sidehills, and as a result, we got to the start of the route in a trafficjam. I led the first pitch and Jacob led the second. We couldn't quite see what was going on with the groups above us, and had forgotten headlamps. Jacob was also missing sleeves, layers, and glasses, and I was seriously feeling like I should have prepared us better for this outing. We had no margins for error or schedule. My phone was dying, so we were pretty worried about light on the hike out, and then suddenly Jacob announced that he as cold. I decided we should bail at this point. 
+
+Looking back, we should have taken the day more seriiously and I should have taught Jacob how to pack for an alpine climb. I would love to go back on another weekday, arrive at the trailhead at 6am with proper gear, and try harder to spot a mountain goat (all we got was fur). Great day out nontheless. We stopped for Wendy's on the way home and binged Climbing Gold.
 
 ---
 
