@@ -47,6 +47,8 @@ I led the first pitch and Jacob led the second. We couldn't quite see what was g
 
 Looking back, we should have taken the day more seriiously and I should have taught Jacob how to pack for an alpine climb. I would love to go back on another weekday, arrive at the trailhead at 6am with proper gear, and try harder to spot a mountain goat (all we got was fur). Great day out nontheless. We stopped for Wendy's on the way home and binged Climbing Gold.
 
+<img src="https://islalowe.github.io/assets/img/smiling.jpeg" width="500" alt="Smiling Before the Rappel">
+
 ---
 
 ## Quartz Mountain/Absolute Serenity Now · Middle Fork
