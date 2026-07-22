@@ -39,7 +39,11 @@ The initial descent from the summit was early and cold, and I did not know how t
 
 [Strava Activity](https://www.strava.com/activities/18938187697)
 
-My little brother Jacob's first hike above treeline and on snow and talus was exciting, but slow-going. We had to slow down to learn techniques and we chose to slow down to scramble some sidehills, and as a result, we got to the start of the route in a trafficjam. I led the first pitch and Jacob led the second. We couldn't quite see what was going on with the groups above us, and had forgotten headlamps. Jacob was also missing sleeves, layers, and glasses, and I was seriously feeling like I should have prepared us better for this outing. We had no margins for error or schedule. My phone was dying, so we were pretty worried about light on the hike out, and then suddenly Jacob announced that he as cold. I decided we should bail at this point. 
+My little brother Jacob's first hike above treeline and on snow and talus was exciting, but slow-going. We had to slow down to learn techniques and we chose to slow down to scramble some sidehills, and as a result, we got to the start of the route in a trafficjam. 
+
+<img src="https://islalowe.github.io/assets/img/scramble.jpeg" width="500" alt="Jacob on a Scramble">
+
+I led the first pitch and Jacob led the second. We couldn't quite see what was going on with the groups above us, and had forgotten headlamps. Jacob was also missing sleeves, layers, and glasses, and I was seriously feeling like I should have prepared us better for this outing. We had no margins for error or schedule. My phone was dying, so we were pretty worried about light on the hike out, and then suddenly Jacob announced that he as cold. I decided we should bail at this point. 
 
 Looking back, we should have taken the day more seriiously and I should have taught Jacob how to pack for an alpine climb. I would love to go back on another weekday, arrive at the trailhead at 6am with proper gear, and try harder to spot a mountain goat (all we got was fur). Great day out nontheless. We stopped for Wendy's on the way home and binged Climbing Gold.
 
@@ -63,7 +67,7 @@ The call was made to skirt the summit to try to make it home before sunrise. We 
 
 [Strava Activity](https://www.strava.com/activities/18467512122)
 
-Bagged this peak as a three-person team, with Peter and TJ. Peter led every pitch. We were racing a windstorm that was politely waiting for us to get down, but it really started whipping as we finished the final rappel, where the rope got stuck. Peter tried a 3:1 pulley against a larch to pull the rope but ultimately we left it, and following teams have begun using it as a handline to descend the snow slope below the route. 
+We bagged this peak as a three-person team, with Peter and TJ. Peter led every pitch. We were racing a windstorm that was politely waiting for us to get down, but it really started whipping as we finished the final rappel, where the rope got stuck. Peter tried a 3:1 pulley against a larch to pull the rope but ultimately we left it, and following teams have begun using it as a handline to descend the snow slope below the route. 
 We took longer than expected to finish the climb, so the ultimate timeline was:
 - Friday: sleep in Leavenworth
 - Saturday: approach to Lake Vivian
